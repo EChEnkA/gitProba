@@ -1,5 +1,5 @@
 def print_hi():
-    print(f'Hi')
+    print(f'Yandex')
 
 
 if __name__ == '__main__':
